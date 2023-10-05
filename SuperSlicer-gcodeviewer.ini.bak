@@ -143,7 +143,7 @@ Verbatim PLA = 1
 Verbatim PP = 1
 
 [recent_projects]
-1 = C:\Users\JackGreer\OneDrive - Greer\Downloads\output.gcode
+1 = C:\Users\JackGreer\OneDrive - Greer\Downloads\alien-mk3s_02mm_pla_mk3s_18h0m-1.gcode
 
 [sla_materials]
 3DM-ABS Orange @0.025 SL1S = 1
@@ -195,4 +195,4 @@ Prusa White Tough @0.025 SL1S = 1
 Prusa White Tough @0.05 SL1S = 1
 Prusa White Tough @0.1 SL1S = 1
 
-# MD5 checksum 67F2C5D2701CCCDF23659FFE78A8A9FA
+# MD5 checksum 46A28CC8A5C7B485F23A064116DD745B
